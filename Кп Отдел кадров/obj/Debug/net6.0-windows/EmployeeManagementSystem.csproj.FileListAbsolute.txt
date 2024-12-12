@@ -1,0 +1,27 @@
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\bin\Debug\net6.0-windows\Employee Management System.exe
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\bin\Debug\net6.0-windows\Employee Management System.dll.config
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\bin\Debug\net6.0-windows\Employee Management System.deps.json
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\bin\Debug\net6.0-windows\Employee Management System.runtimeconfig.json
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\bin\Debug\net6.0-windows\Employee Management System.dll
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\bin\Debug\net6.0-windows\Employee Management System.pdb
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.AddEmployee.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.AddTask.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.AdminForm.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.EditEmpProfile.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.EmployeeForm.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.Login.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.RemoveEmployee.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.RemoveTask.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.ViewEmployees.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.ViewEmpProfile.resources
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\Employee Management System.dll
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\refint\Employee Management System.dll
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\Employee Management System.pdb
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\PC\Desktop\Новая папка (4)\EmployeeManagementSystem-master\obj\Debug\net6.0-windows\ref\Employee Management System.dll
